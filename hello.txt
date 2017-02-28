@@ -1,1 +1,2 @@
-Yupii
+ya se verifico que es diferente el contenido en cada rama
+se pone doble flechita para que agregue en lugar de reemplazar
