@@ -1,2 +1,4 @@
 ya se verifico que es diferente el contenido en cada rama
 se pone doble flechita para que agregue en lugar de reemplazar
+esto era del nuevo branch lo mezclé
+estoy en la rama nuevo branch, ya no en la master
